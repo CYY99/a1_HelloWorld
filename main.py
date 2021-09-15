@@ -1,7 +1,7 @@
+# Name: Meng Liang
+# Student ID: 70105176
+# purpose: be familiar with Hello World application
 # This is my main.py
-
-
-
 # description: This is function that prints some sentences
 # Arguments: no argument
 # return type: no return value
