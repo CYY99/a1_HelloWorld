@@ -1,5 +1,5 @@
 # This is my main.py
-# Purpose:
+
 
 
 # description: This is function that prints some sentences
